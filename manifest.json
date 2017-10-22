@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Title implement later",
+  "description": "This extension keeps track of your producivity so you can research effecently",
+  "version": "1.0",
+
+  "permissions":
+  [
+    "tab",
+    "storage"
+  ]
+}
